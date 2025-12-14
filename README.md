@@ -166,5 +166,3 @@ Typical speedups vs single-threaded CPU (hardware dependent):
 - [Ray Tracing in One Weekend](https://raytracing.github.io/)
 
 ---
-
-**Built with ❤️ for parallel computing education**
