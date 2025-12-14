@@ -1,0 +1,37 @@
+# Build artifacts
+*.o
+*.so
+*.a
+*.exe
+
+# Output files
+*.ppm
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Benchmark results (optional - keep if you want to track results)
+# benchmark_results.json
+
+# Build logs
+build_log.txt
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CUDA/NVIDIA profiling
+*.nsys-rep
+*.sqlite
+*.qdrep
